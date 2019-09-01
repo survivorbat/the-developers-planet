@@ -1,4 +1,4 @@
-# dPlanet
+# dPlanet [ARCHIVED]
 
 [![Build Status](https://travis-ci.com/marsh69/dPlanet.svg?branch=master)](https://travis-ci.com/marsh69/dPlanet)
 
